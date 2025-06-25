@@ -5,5 +5,6 @@ Hi there, this is my first time designing a drone.
 
 For anyone wondering I'm following Riley Morgans Drone Theory 
 https://www.youtube.com/watch?v=K05UwsiqZ_E  aswell as
+
 Brain Right selecting your components 
 https://www.youtube.com/watch?v=XEvDYOs060E
